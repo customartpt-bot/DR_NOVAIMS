@@ -1,0 +1,9 @@
+Sentinel-2A
+Data: 2024-09-15
+Bandas: B02 B03 B04 B08 TCI (True Color)
+Resolução: 10 m
+SRC: ETRS89 / PT-TM06
+AOI: Moura-Amareleja-Aldeia da Luz
+
+LandSat
+
