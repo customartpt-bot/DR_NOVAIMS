@@ -2,8 +2,29 @@ Sentinel-2A
 Data: 2024-09-15
 Bandas: B02 B03 B04 B08 TCI (True Color)
 Resolução: 10 m
-SRC: ETRS89 / PT-TM06
+SRC: EPSG: 32629 - WGS84 / UTM 29N
 AOI: Moura-Amareleja-Aldeia da Luz
 
 LandSat
 
+Pack de Dados: Monitorização Alqueva (2001 vs. 2025)
+
+Momento 1: Pré-Enchimento (Histórico)
+
+Satélite: Landsat 7 ETM+   
+Data: 2001-09-08   
+Bandas: B1, B2, B3 (Visível) e B4 (Infravermelho Próximo/NIR)   
+Resolução: 30 m   
+SRC: WGS 84 / UTM zone 29N   
+
+Nota: Imagem do Vale do Guadiana antes da subida das águas.
+
+Momento 2: Atualidade
+
+Satélite: Sentinel-2A
+Data: 2025-09-15
+Bandas: B02, B03, B04, B08 e TCI (True Color Image)
+Resolução: 10 m
+SRC: EPSG: 32629 - WGS84 / UTM 29N
+
+AOI: Quadrante 15x15 km (Moura - Amareleja - Aldeia da Luz)
